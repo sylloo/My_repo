@@ -1,0 +1,3 @@
+# My_repo
+trying repo
+Trying to code a little game for my childrens....
